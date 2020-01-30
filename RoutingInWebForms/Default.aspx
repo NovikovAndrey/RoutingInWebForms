@@ -9,6 +9,11 @@
 <body>
     <form id="form1" runat="server">
         <div>
+        <a href="/browsers/ie">IE</a><br />
+        <a href="/browsers/chrome">Chrome</a><br />
+        <a href="/browsers/moz">Mozilla</a><br />
+        <a href="/browsers/opera">Opera</a><br />
+        <a href="/browsers/safary">Safary</a><br />
         </div>
     </form>
 </body>
